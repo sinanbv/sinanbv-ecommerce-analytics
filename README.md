@@ -29,6 +29,6 @@ Built an end-to-end analytics solution: merged 10 raw tables into a master datas
 - Built an Excel dashboard that increased reporting speed by 80% with KPIs and slicers.
   
 ## Contact
-muhammed sinan bv — bvsinan06@gamil.com — UAE
+muhammed sinan bv — bvsinan06@gamil.com — UAE                                      
 LinkedIn: http://www.linkedin.com/in/sinanbv
 
