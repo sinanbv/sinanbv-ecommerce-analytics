@@ -14,7 +14,7 @@ Built an end-to-end analytics solution: merged 10 raw tables into a master datas
 ## Files
 - `PROJECT_Dashboard.xlsx` — Final dashboard & master sheet
 - `projectBI.pbix` — Performance Insights Dashboard
-- `sql/02_master_build.sql` — Master table creation
+- `project_sql.sql` — Master table creation
 - `dashboard_screenshots/` — Images for demo
 - `PROJECT SUMMARY.pdf` — Project summary
 
